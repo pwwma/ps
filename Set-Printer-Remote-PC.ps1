@@ -7,4 +7,4 @@ Clear-Host
 $pcName = "PC name you have Admin rights to"
 $printerName ="\\PrintServer\Printer_Name"
 
-Invoke-Command -ComputerName $pcName -Scriptblock {RUNDLL32 PRINTUI.DLL,PrintUIEntry /ga /n$printerName }
+Invoke-Command -ComputerName $pcName -Scriptblock {RUNDLL32 PRINTUI.DLL,PrintUIEntry /ga /n$printerName}
