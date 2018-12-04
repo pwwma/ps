@@ -1,5 +1,3 @@
-# ps
+# PowerShell One Liners
 
-Powershell One liners, for testing!
-
-Really, just for testing!
+One liners that I use daily.
