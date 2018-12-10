@@ -1,3 +1,3 @@
 # PowerShell One Liners
 
-One liners that I use daily.
+Basic one liners, not very useful just examples.
